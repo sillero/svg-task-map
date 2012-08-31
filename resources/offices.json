@@ -1,0 +1,97 @@
+{ "offices": [{
+	"region": "Australia",
+	"svgids": ["path6235"],
+	"countries": ["Australia"]
+}, {
+	"region": "Brazil",
+	"svgids": ["path_c"],
+	"countries": ["Brazil"]
+}, {
+	"region": "Benelux",
+	"svgids": ["path5813"],
+	"countries": ["Belgium", "The Netherlands", "Luxembourg"]
+}, {
+	"region": "China",
+	"svgids": ["path_f"],
+	"countries": ["China"]
+}, {
+	"region": "Finland",
+	"svgids": ["path_m"],
+	"countries": ["Finland"]
+}, {
+	"region": "France",
+	"svgids": ["path5841"],
+	"countries": ["France"]
+}, {
+	"region": "Germany and Austria",
+	"svgids": ["path5823", "path_p"],
+	"countries": ["Germany", "Austria"]
+}, {
+	"region": "Greece",
+	"svgids": ["path5879"],
+	"countries": ["Greece"]
+}, {
+	"region": "Hungary",
+	"svgids": ["path5829"],
+	"countries": ["Hungary"]
+}, {
+	"region": "India",
+	"svgids": ["path6071"],
+	"countries": ["India"]
+}, {
+	"region": "Israel",
+	"svgids": ["path5921"],
+	"countries": ["Israel"]
+}, {
+	"region": "Italy",
+	"svgids": ["path_n"],
+	"countries": ["Italy"]
+}, {
+	"region": "Korea",
+	"svgids": ["path5891", "path_h"],
+	"countries": ["Korea"]
+}, {
+	"region": "Morocco",
+	"svgids": ["path5931"],
+	"countries": ["Morocco"]
+}, {
+	"region": "Russia",
+	"svgids": ["path_j", "path5759"],
+	"countries": ["Russia"]
+}, {
+	"region": "Senegal",
+	"svgids": ["path6029"],
+	"countries": ["Senegal"]
+}, {
+	"region": "Southern Africa",
+	"svgids": ["path6217", "path6231", "path6211", "path6219", "path6225", "path_e", "path6193", "path6227", "path6221"],
+	"countries": [
+		"Angola",
+		"Botswana",
+		"Democratic Republic of the Congo",
+		"Lesotho",
+		"Madagascar",
+		"Malawi",
+		"Mauritius",
+ 		"Mozambique",
+ 		"Namibia",
+ 		"Seychelles",
+ 		"South Africa",
+ 		"Swaziland",
+ 		"Tanzania",
+ 		"Zambia",
+ 		"Zimbabwe"
+ 		]
+}, {
+	"region": "Spain",
+	"svgids": ["path5881"],
+	"countries": ["Spain"]
+}, {
+	"region": "Sweden",
+	"svgids": ["path5787"],
+	"countries": ["Sweden"]
+}, {
+	"region": "United Kingdom and Ireland",
+	"svgids": ["path5809", "path5807", "path4015", "path5799"],
+	"countries": ["United Kingdom", "UK", "Ireland", "England", "Northern Ireland", "Scotland", "Wales"]
+}] }
